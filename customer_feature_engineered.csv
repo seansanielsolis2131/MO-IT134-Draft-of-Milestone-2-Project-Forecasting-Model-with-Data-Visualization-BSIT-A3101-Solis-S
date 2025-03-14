@@ -1,0 +1,101 @@
+Company_ID,Total_Spending,Transaction_Frequency,Avg_Quantity_Purchased,Company_Profit,Likelihood to recommend,Satisfaction rating,Cluster,Segment,Product_Name,Product_Name_Encoded
+1.0,45764044.27,34,11.04,80701.0,4.44,5.0,2,Moderate Spenders - Satisfied,MarketMinder Analytics,9
+2.0,53433683.47,41,8.84,80511.0,7.01,3.51,3,Unhappy Customers - High Spending,DataBridge Integration Tool,3
+3.0,71807184.22,49,10.95,110664.0,10.0,5.0,0,Low Spenders - Low Frequency,DashSync Analytics Hub,2
+4.0,76148264.44,53,10.34,76400.5,10.0,5.0,1,High Spenders - High Frequency,Product 9,12
+5.0,60389557.35,46,9.37,69427.0,9.03,4.41,2,Moderate Spenders - Satisfied,CustomerScope Insights,1
+6.0,76333961.84,57,11.14,36967.0,10.0,5.0,1,High Spenders - High Frequency,SegmentX Targeting,17
+7.0,60249111.86,45,9.86,36661.0,8.79,4.87,2,Moderate Spenders - Satisfied,ForecastXcelerator ,7
+8.0,78047793.22,51,11.64,107952.0,10.0,5.0,0,Low Spenders - Low Frequency,MarketMinder Analytics,9
+9.0,63341235.27,47,10.8,96046.0,9.64,5.0,1,High Spenders - High Frequency,BudgetMaster Pro,0
+10.0,62184096.2,48,9.64,65200.0,9.71,4.76,2,Moderate Spenders - Satisfied,NexGen Segmentator,10
+11.0,72306088.15,47,11.28,97442.0,10.0,5.0,1,High Spenders - High Frequency,FinPredictor Suite,5
+12.0,73100225.6,52,10.58,91671.0,10.0,5.0,0,Low Spenders - Low Frequency,RiskRadar Monitor,15
+13.0,88023817.64,62,10.84,88168.0,10.0,5.0,0,Low Spenders - Low Frequency,FinPredictor Suite,5
+14.0,68706689.62,48,10.38,78322.0,10.0,5.0,1,High Spenders - High Frequency,MarketMinder Analytics,9
+15.0,71176678.2,53,10.1,111984.0,10.0,5.0,0,Low Spenders - Low Frequency,BudgetMaster Pro,0
+16.0,58038255.56,46,10.1,67696.0,8.73,4.96,2,Moderate Spenders - Satisfied,DataBridge Integration Tool,3
+17.0,81320047.8,54,11.02,100246.0,10.0,5.0,0,Low Spenders - Low Frequency,DataBridge Integration Tool,3
+18.0,69222649.19,52,10.63,68892.0,10.0,5.0,1,High Spenders - High Frequency,BudgetMaster Pro,0
+19.0,72284124.31,50,10.94,45583.0,10.0,5.0,1,High Spenders - High Frequency,CustomerScope Insights,1
+20.0,76374055.26,58,10.06,112720.0,10.0,5.0,0,Low Spenders - Low Frequency,OptiFlow Automation,11
+21.0,88699850.93,57,11.1,76400.5,10.0,5.0,0,Low Spenders - Low Frequency,SalesSync Optimizer,16
+22.0,53678206.71,42,11.13,54853.0,7.26,5.0,2,Moderate Spenders - Satisfied,DataBridge Integration Tool,3
+23.0,75614951.47,51,10.13,76400.5,10.0,5.0,1,High Spenders - High Frequency,RevenueVue Dashboard,14
+24.0,82903068.68,52,11.36,89757.0,10.0,5.0,0,Low Spenders - Low Frequency,OptiFlow Automation,11
+25.0,66760836.74,49,10.64,36659.0,10.0,5.0,1,High Spenders - High Frequency,MarketMinder Analytics,9
+26.0,77900537.38,48,9.81,31238.0,10.0,5.0,1,High Spenders - High Frequency,OptiFlow Automation,11
+27.0,74804708.25,54,9.94,45064.0,10.0,5.0,1,High Spenders - High Frequency,MarketMinder Analytics,9
+28.0,72549750.18,46,12.33,61115.0,10.0,5.0,1,High Spenders - High Frequency,MarketMinder Analytics,9
+29.0,69164476.87,42,11.58,61952.0,9.27,5.0,1,High Spenders - High Frequency,RealTime Revenue,13
+30.0,62018525.7,41,10.1,35620.0,8.12,5.0,2,Moderate Spenders - Satisfied,RevenueVue Dashboard,14
+31.0,54233107.34,41,9.91,74258.0,7.11,4.56,2,Moderate Spenders - Satisfied,MarketMinder Analytics,9
+32.0,58170136.01,43,10.0,34470.0,8.07,4.87,2,Moderate Spenders - Satisfied,InsightMax Insights Platform,8
+33.0,58381827.98,44,10.12,52003.0,8.32,5.0,2,Moderate Spenders - Satisfied,BudgetMaster Pro,0
+34.0,66044486.42,54,9.98,57571.0,10.0,5.0,1,High Spenders - High Frequency,FinSphere Intelligence Suite,6
+35.0,75528967.77,49,11.36,54668.0,10.0,5.0,1,High Spenders - High Frequency,DataBridge Integration Tool,3
+36.0,70652812.79,44,11.08,107259.0,9.91,5.0,1,High Spenders - High Frequency,ForecastXcelerator ,7
+37.0,60362250.82,50,8.78,62046.0,9.93,3.86,2,Moderate Spenders - Satisfied,SpendTrack Plus,18
+38.0,57003789.88,50,8.44,100977.0,9.49,3.35,3,Unhappy Customers - High Spending,TrendWise Forecaster,19
+39.0,86132981.72,58,11.02,107255.0,10.0,5.0,0,Low Spenders - Low Frequency,SegmentX Targeting,17
+40.0,59137652.96,42,9.82,35397.0,7.97,4.76,2,Moderate Spenders - Satisfied,RiskRadar Monitor,15
+41.0,75715046.77,49,11.33,76400.5,10.0,5.0,1,High Spenders - High Frequency,DashSync Analytics Hub,2
+42.0,50185697.08,42,9.29,52233.0,6.81,3.75,3,Unhappy Customers - High Spending,Product 9,12
+43.0,61113008.02,43,11.35,113336.0,8.45,5.0,2,Moderate Spenders - Satisfied,EcoNomix Modeler,4
+44.0,71794863.74,46,11.43,76400.5,10.0,5.0,1,High Spenders - High Frequency,DashSync Analytics Hub,2
+45.0,48924361.34,41,9.17,99726.0,6.42,3.56,3,Unhappy Customers - High Spending,RevenueVue Dashboard,14
+46.0,71020578.51,47,11.09,93219.0,10.0,5.0,1,High Spenders - High Frequency,CustomerScope Insights,1
+47.0,33877221.05,30,10.0,31130.0,2.0,3.48,3,Unhappy Customers - High Spending,TrendWise Forecaster,19
+48.0,69687673.48,50,10.79,76400.5,10.0,5.0,1,High Spenders - High Frequency,EcoNomix Modeler,4
+49.0,103435260.11,70,10.69,115517.0,10.0,5.0,0,Low Spenders - Low Frequency,TrendWise Forecaster,19
+50.0,76426242.12,52,10.92,32118.0,10.0,5.0,1,High Spenders - High Frequency,ForecastXcelerator ,7
+51.0,72545586.37,48,11.56,30663.0,10.0,5.0,1,High Spenders - High Frequency,CustomerScope Insights,1
+52.0,60281536.32,50,9.79,92408.0,9.92,4.79,2,Moderate Spenders - Satisfied,RiskRadar Monitor,15
+53.0,78851522.98,43,12.7,76400.5,10.0,5.0,1,High Spenders - High Frequency,RevenueVue Dashboard,14
+54.0,46976872.88,36,8.66,111271.0,5.04,2.97,3,Unhappy Customers - High Spending,FinPredictor Suite,5
+55.0,48386332.72,41,8.42,49158.0,6.35,2.83,3,Unhappy Customers - High Spending,CustomerScope Insights,1
+56.0,71363785.58,54,9.98,61087.0,10.0,5.0,1,High Spenders - High Frequency,FinSphere Intelligence Suite,6
+57.0,53633257.58,46,9.72,118114.0,8.16,4.35,2,Moderate Spenders - Satisfied,SalesSync Optimizer,16
+58.0,40957973.32,35,9.13,83121.0,4.04,3.07,3,Unhappy Customers - High Spending,SpendTrack Plus,18
+59.0,54990452.71,37,10.58,49874.0,6.31,5.0,2,Moderate Spenders - Satisfied,MarketMinder Analytics,9
+60.0,58163289.38,41,10.89,113443.0,7.62,5.0,2,Moderate Spenders - Satisfied,CustomerScope Insights,1
+61.0,60815076.42,45,9.86,70821.0,8.86,4.89,2,Moderate Spenders - Satisfied,SalesSync Optimizer,16
+62.0,85297443.26,53,11.59,90582.0,10.0,5.0,0,Low Spenders - Low Frequency,BudgetMaster Pro,0
+63.0,62317380.2,47,11.43,52787.0,9.5,5.0,1,High Spenders - High Frequency,DataBridge Integration Tool,3
+64.0,67348240.18,49,9.84,94703.0,10.0,5.0,1,High Spenders - High Frequency,SalesSync Optimizer,16
+65.0,80965296.76,54,10.67,51705.0,10.0,5.0,1,High Spenders - High Frequency,MarketMinder Analytics,9
+66.0,78348670.21,53,10.9,99381.0,10.0,5.0,0,Low Spenders - Low Frequency,CustomerScope Insights,1
+67.0,82692094.77,66,9.05,74653.0,10.0,5.0,0,Low Spenders - Low Frequency,InsightMax Insights Platform,8
+68.0,78790583.39,53,11.25,112018.0,10.0,5.0,0,Low Spenders - Low Frequency,MarketMinder Analytics,9
+69.0,75456457.27,54,10.43,116217.0,10.0,5.0,0,Low Spenders - Low Frequency,SalesSync Optimizer,16
+70.0,68557152.5,48,10.18,62252.0,10.0,5.0,1,High Spenders - High Frequency,RevenueVue Dashboard,14
+71.0,71026563.27,50,10.84,103332.0,10.0,5.0,0,Low Spenders - Low Frequency,FinPredictor Suite,5
+72.0,61396549.64,39,10.91,102799.0,7.59,5.0,2,Moderate Spenders - Satisfied,MarketMinder Analytics,9
+73.0,58786124.03,51,9.04,92185.0,9.95,4.01,2,Moderate Spenders - Satisfied,RiskRadar Monitor,15
+74.0,55164912.8,40,11.67,76400.5,7.0,5.0,2,Moderate Spenders - Satisfied,SegmentX Targeting,17
+75.0,80456355.58,50,11.05,71538.0,10.0,5.0,1,High Spenders - High Frequency,TrendWise Forecaster,19
+76.0,81672554.45,51,11.79,76400.5,10.0,5.0,1,High Spenders - High Frequency,FinPredictor Suite,5
+77.0,59407999.32,48,8.63,110398.0,9.35,3.67,3,Unhappy Customers - High Spending,TrendWise Forecaster,19
+78.0,82398182.95,60,10.23,71232.0,10.0,5.0,0,Low Spenders - Low Frequency,TrendWise Forecaster,19
+79.0,67610220.93,48,10.29,83106.0,10.0,5.0,1,High Spenders - High Frequency,EcoNomix Modeler,4
+80.0,92140781.93,58,12.25,111227.0,10.0,5.0,0,Low Spenders - Low Frequency,InsightMax Insights Platform,8
+81.0,85158116.85,64,10.08,83079.0,10.0,5.0,0,Low Spenders - Low Frequency,RiskRadar Monitor,15
+82.0,70318632.85,51,10.88,55028.0,10.0,5.0,1,High Spenders - High Frequency,SalesSync Optimizer,16
+83.0,73237903.92,46,11.33,72135.0,10.0,5.0,1,High Spenders - High Frequency,DashSync Analytics Hub,2
+84.0,79578631.38,49,12.27,76400.5,10.0,5.0,1,High Spenders - High Frequency,SalesSync Optimizer,16
+85.0,76786155.23,57,10.06,113470.0,10.0,5.0,0,Low Spenders - Low Frequency,FinPredictor Suite,5
+86.0,70292971.53,55,10.02,50910.0,10.0,5.0,1,High Spenders - High Frequency,Product 9,12
+87.0,77395105.41,54,10.9,37141.0,10.0,5.0,1,High Spenders - High Frequency,DataBridge Integration Tool,3
+88.0,66895146.62,46,11.46,75950.0,9.87,5.0,1,High Spenders - High Frequency,Product 9,12
+89.0,72960957.13,47,11.16,76400.5,10.0,5.0,1,High Spenders - High Frequency,Product 9,12
+90.0,74993716.85,56,9.61,46225.0,10.0,5.0,1,High Spenders - High Frequency,FinSphere Intelligence Suite,6
+91.0,75319065.25,56,10.28,117123.0,10.0,5.0,0,Low Spenders - Low Frequency,RiskRadar Monitor,15
+92.0,81721406.98,56,10.54,62959.0,10.0,5.0,1,High Spenders - High Frequency,TrendWise Forecaster,19
+93.0,70070530.2,45,11.97,79192.0,10.0,5.0,1,High Spenders - High Frequency,Product 9,12
+94.0,65908211.01,45,10.57,109711.0,9.52,5.0,2,Moderate Spenders - Satisfied,RevenueVue Dashboard,14
+95.0,54511694.48,40,10.08,40051.0,6.92,4.74,2,Moderate Spenders - Satisfied,TrendWise Forecaster,19
+96.0,63845940.16,52,9.91,101428.0,10.0,5.0,0,Low Spenders - Low Frequency,NexGen Segmentator,10
+97.0,65651137.53,43,11.18,33449.0,9.04,5.0,1,High Spenders - High Frequency,RealTime Revenue,13
+98.0,70503768.48,54,10.43,71095.0,10.0,5.0,1,High Spenders - High Frequency,DashSync Analytics Hub,2
+99.0,55662732.84,43,10.77,107929.0,7.74,5.0,2,Moderate Spenders - Satisfied,CustomerScope Insights,1
+100.0,60266545.18,46,10.54,76400.5,9.01,5.0,2,Moderate Spenders - Satisfied,BudgetMaster Pro,0
